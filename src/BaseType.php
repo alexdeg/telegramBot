@@ -6,7 +6,7 @@
  * Time: 14:57
  */
 
-namespace sijeko\telegramParser;
+namespace sijeko\telegram;
 
 
 class BaseType
