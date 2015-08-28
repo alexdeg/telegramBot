@@ -1,0 +1,6 @@
+{
+  "name": "sijeko/telegramParser",
+  "autoload": {
+    "psr-4": {"sijeko\\telegramParser\\": "src/"}
+  }
+}
