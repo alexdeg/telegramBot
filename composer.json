@@ -1,6 +1,12 @@
 {
-  "name": "sijeko/telegram",
-  "autoload": {
-    "psr-4": {"sijeko\\telegram\\": "src/"}
-  }
+	"name": "sijeko/telegram",
+	"homepage": "https://github.com/alexdeg/telegramBot",
+	"require": {
+		"php": ">=5.3.0"
+	},
+	
+	"minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {"sijeko\\telegram\\": "src/"}
+	}
 }
