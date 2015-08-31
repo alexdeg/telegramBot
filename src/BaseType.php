@@ -13,7 +13,7 @@ class BaseType
 {
 	function __construct($array = null)
 	{
-		
+
 		if (is_array($array)) {
 			$this->setFields($array);
 		}
